@@ -1,0 +1,11 @@
+Reviewer: Lauren Nelson-Lee (u6378754)
+Component: Board class (gui) lines 30-43 , Board lines 284-357
+
+Author: Saffron Bannister (u6062525)
+
+Review Comments:
+
+1. Improve names of board and viewer variables to better describe them
+2. Pretty good documentation though a bit more commenting would be good
+3. Good decomposition of code into smaller methods, appropriate method names
+4. Good use of changing/returning values relative to the board size, e.g. use of SQUARE_SIZE rather than distinct number
